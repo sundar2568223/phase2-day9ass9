@@ -1,0 +1,8 @@
+D:\simplylearnPhase-2\Day-9\day9ass9ADO.NET_StoredProcedure\day9ass9ADO.NET_StoredProcedure\bin\Debug\day9ass9ADO.NET_StoredProcedure.exe.config
+D:\simplylearnPhase-2\Day-9\day9ass9ADO.NET_StoredProcedure\day9ass9ADO.NET_StoredProcedure\bin\Debug\day9ass9ADO.NET_StoredProcedure.exe
+D:\simplylearnPhase-2\Day-9\day9ass9ADO.NET_StoredProcedure\day9ass9ADO.NET_StoredProcedure\bin\Debug\day9ass9ADO.NET_StoredProcedure.pdb
+D:\simplylearnPhase-2\Day-9\day9ass9ADO.NET_StoredProcedure\day9ass9ADO.NET_StoredProcedure\obj\Debug\day9ass9ADO.NET_StoredProcedure.csproj.AssemblyReference.cache
+D:\simplylearnPhase-2\Day-9\day9ass9ADO.NET_StoredProcedure\day9ass9ADO.NET_StoredProcedure\obj\Debug\day9ass9ADO.NET_StoredProcedure.csproj.SuggestedBindingRedirects.cache
+D:\simplylearnPhase-2\Day-9\day9ass9ADO.NET_StoredProcedure\day9ass9ADO.NET_StoredProcedure\obj\Debug\day9ass9ADO.NET_StoredProcedure.csproj.CoreCompileInputs.cache
+D:\simplylearnPhase-2\Day-9\day9ass9ADO.NET_StoredProcedure\day9ass9ADO.NET_StoredProcedure\obj\Debug\day9ass9ADO.NET_StoredProcedure.exe
+D:\simplylearnPhase-2\Day-9\day9ass9ADO.NET_StoredProcedure\day9ass9ADO.NET_StoredProcedure\obj\Debug\day9ass9ADO.NET_StoredProcedure.pdb
